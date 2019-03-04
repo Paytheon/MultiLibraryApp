@@ -1,0 +1,12 @@
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\bin\Debug\netstandard2.0\CoreLibrary.dll
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\bin\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csprojAssemblyReference.cache
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csproj.CopyComplete
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\payth\OneDrive\Documents\Visual Studio 2017\CodeProjects\MultiLibraryApp\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb
