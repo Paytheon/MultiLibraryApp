@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\payth\\OneDrive\\Documents\\Visual Studio 2017\\CodeProjects\\daemon\\daemon.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
